@@ -30,7 +30,6 @@ SLiM (metapakiet).
 %package -n slim-theme-capernoited
 Summary:	Theme capernoited for SLiM
 Summary(pl):	Motyw capernoited dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -43,7 +42,6 @@ Pakiet ten dostarcza motywu `capernoited' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-flower2
 Summary:	Theme flower2 for SLiM
 Summary(pl):	Motyw flower2 dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -56,7 +54,6 @@ Pakiet ten dostarcza motywu `flower2' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-isolated
 Summary:	Theme isolated for SLiM
 Summary(pl):	Motyw isolated dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -69,7 +66,6 @@ Pakiet ten dostarcza motywu `isolated' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-lotus-midnight
 Summary:	Theme lotus-midnight for SLiM
 Summary(pl):	Motyw lotus-midnight dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -82,7 +78,6 @@ Pakiet ten dostarcza motywu `lotus-midnight' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-lotus-sage
 Summary:	Theme lotus-sage for SLiM
 Summary(pl):	Motyw lotus-sage dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -95,7 +90,6 @@ Pakiet ten dostarcza motywu `lotus-sage' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-mindlock
 Summary:	Theme mindlock for SLiM
 Summary(pl):	Motyw mindlock dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
@@ -108,7 +102,6 @@ Pakiet ten dostarcza motywu `mindlock' do zarz±dcy ekranow SLiM.
 %package -n slim-theme-parallel-dimensions
 Summary:	Theme parallel-dimensions for SLiM
 Summary(pl):	Motyw parallel-dimensions dla SLiM
-License:	GPL
 Group:		Themes
 Requires:	slim
 
