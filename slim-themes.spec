@@ -8,7 +8,6 @@ Group:		Themes
 Source0:	http://download.berlios.de/slim/slim-%{version}-themepack1a.tar.gz
 # Source0-md5:	fd1295d3a260849790dc17081da4a34f
 URL:		http://download.berlios.de/slim/
-Requires:	slim
 Requires:	slim-theme-capernoited
 Requires:	slim-theme-flower2
 Requires:	slim-theme-isolated
