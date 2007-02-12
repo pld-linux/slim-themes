@@ -1,5 +1,5 @@
 Summary:	Themes for SLiM
-Summary(pl):	Motywy dla SLiM
+Summary(pl.UTF-8):   Motywy dla SLiM
 Name:		slim-themes
 Version:	1.2.3
 Release:	1
@@ -22,85 +22,85 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package provides a set of themes for SLiM display manager
 (metapackage).
 
-%description -l pl
-Ten pakiet dostarcza zestaw motywów do zmiany wygl±du zarz±dcy ekranów
+%description -l pl.UTF-8
+Ten pakiet dostarcza zestaw motywÃ³w do zmiany wyglÄ…du zarzÄ…dcy ekranÃ³w
 SLiM (metapakiet).
 
 %package -n slim-theme-capernoited
 Summary:	Theme capernoited for SLiM
-Summary(pl):	Motyw capernoited dla SLiM
+Summary(pl.UTF-8):   Motyw capernoited dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-capernoited
 This package provdes `capernoited' theme for SLiM display manager.
 
-%description -n slim-theme-capernoited -l pl
-Pakiet ten dostarcza motywu `capernoited' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-capernoited -l pl.UTF-8
+Pakiet ten dostarcza motywu `capernoited' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-flower2
 Summary:	Theme flower2 for SLiM
-Summary(pl):	Motyw flower2 dla SLiM
+Summary(pl.UTF-8):   Motyw flower2 dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-flower2
 This package provdes `flower2' theme for SLiM display manager.
 
-%description -n slim-theme-flower2 -l pl
-Pakiet ten dostarcza motywu `flower2' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-flower2 -l pl.UTF-8
+Pakiet ten dostarcza motywu `flower2' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-isolated
 Summary:	Theme isolated for SLiM
-Summary(pl):	Motyw isolated dla SLiM
+Summary(pl.UTF-8):   Motyw isolated dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-isolated
 This package provdes `isolated' theme for SLiM display manager.
 
-%description -n slim-theme-isolated -l pl
-Pakiet ten dostarcza motywu `isolated' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-isolated -l pl.UTF-8
+Pakiet ten dostarcza motywu `isolated' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-lotus-midnight
 Summary:	Theme lotus-midnight for SLiM
-Summary(pl):	Motyw lotus-midnight dla SLiM
+Summary(pl.UTF-8):   Motyw lotus-midnight dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-lotus-midnight
 This package provdes `lotus-midnight' theme for SLiM display manager.
 
-%description -n slim-theme-lotus-midnight -l pl
-Pakiet ten dostarcza motywu `lotus-midnight' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-lotus-midnight -l pl.UTF-8
+Pakiet ten dostarcza motywu `lotus-midnight' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-lotus-sage
 Summary:	Theme lotus-sage for SLiM
-Summary(pl):	Motyw lotus-sage dla SLiM
+Summary(pl.UTF-8):   Motyw lotus-sage dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-lotus-sage
 This package provdes `lotus-sage' theme for SLiM display manager.
 
-%description -n slim-theme-lotus-sage -l pl
-Pakiet ten dostarcza motywu `lotus-sage' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-lotus-sage -l pl.UTF-8
+Pakiet ten dostarcza motywu `lotus-sage' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-mindlock
 Summary:	Theme mindlock for SLiM
-Summary(pl):	Motyw mindlock dla SLiM
+Summary(pl.UTF-8):   Motyw mindlock dla SLiM
 Group:		Themes
 Requires:	slim
 
 %description -n slim-theme-mindlock
 This package provdes `mindlock' theme for SLiM display manager.
 
-%description -n slim-theme-mindlock -l pl
-Pakiet ten dostarcza motywu `mindlock' do zarz±dcy ekranow SLiM.
+%description -n slim-theme-mindlock -l pl.UTF-8
+Pakiet ten dostarcza motywu `mindlock' do zarzÄ…dcy ekranow SLiM.
 
 %package -n slim-theme-parallel-dimensions
 Summary:	Theme parallel-dimensions for SLiM
-Summary(pl):	Motyw parallel-dimensions dla SLiM
+Summary(pl.UTF-8):   Motyw parallel-dimensions dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -108,8 +108,8 @@ Requires:	slim
 This package provdes `parallel-dimensions' theme for SLiM display
 manager.
 
-%description -n slim-theme-parallel-dimensions -l pl
-Pakiet ten dostarcza motywu `parallel-dimensions' do zarz±dcy ekranow
+%description -n slim-theme-parallel-dimensions -l pl.UTF-8
+Pakiet ten dostarcza motywu `parallel-dimensions' do zarzÄ…dcy ekranow
 SLiM.
 
 %prep
