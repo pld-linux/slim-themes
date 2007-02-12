@@ -1,5 +1,5 @@
 Summary:	Themes for SLiM
-Summary(pl.UTF-8):   Motywy dla SLiM
+Summary(pl.UTF-8):	Motywy dla SLiM
 Name:		slim-themes
 Version:	1.2.3
 Release:	1
@@ -28,7 +28,7 @@ SLiM (metapakiet).
 
 %package -n slim-theme-capernoited
 Summary:	Theme capernoited for SLiM
-Summary(pl.UTF-8):   Motyw capernoited dla SLiM
+Summary(pl.UTF-8):	Motyw capernoited dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -40,7 +40,7 @@ Pakiet ten dostarcza motywu `capernoited' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-flower2
 Summary:	Theme flower2 for SLiM
-Summary(pl.UTF-8):   Motyw flower2 dla SLiM
+Summary(pl.UTF-8):	Motyw flower2 dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -52,7 +52,7 @@ Pakiet ten dostarcza motywu `flower2' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-isolated
 Summary:	Theme isolated for SLiM
-Summary(pl.UTF-8):   Motyw isolated dla SLiM
+Summary(pl.UTF-8):	Motyw isolated dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -64,7 +64,7 @@ Pakiet ten dostarcza motywu `isolated' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-lotus-midnight
 Summary:	Theme lotus-midnight for SLiM
-Summary(pl.UTF-8):   Motyw lotus-midnight dla SLiM
+Summary(pl.UTF-8):	Motyw lotus-midnight dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -76,7 +76,7 @@ Pakiet ten dostarcza motywu `lotus-midnight' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-lotus-sage
 Summary:	Theme lotus-sage for SLiM
-Summary(pl.UTF-8):   Motyw lotus-sage dla SLiM
+Summary(pl.UTF-8):	Motyw lotus-sage dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -88,7 +88,7 @@ Pakiet ten dostarcza motywu `lotus-sage' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-mindlock
 Summary:	Theme mindlock for SLiM
-Summary(pl.UTF-8):   Motyw mindlock dla SLiM
+Summary(pl.UTF-8):	Motyw mindlock dla SLiM
 Group:		Themes
 Requires:	slim
 
@@ -100,7 +100,7 @@ Pakiet ten dostarcza motywu `mindlock' do zarządcy ekranow SLiM.
 
 %package -n slim-theme-parallel-dimensions
 Summary:	Theme parallel-dimensions for SLiM
-Summary(pl.UTF-8):   Motyw parallel-dimensions dla SLiM
+Summary(pl.UTF-8):	Motyw parallel-dimensions dla SLiM
 Group:		Themes
 Requires:	slim
 
